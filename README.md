@@ -120,5 +120,10 @@ Dónde: 30 31 31 30 31 44 34 es el código ASCII de cuatro bytes para el número
 Este proyecto es de uso libre para fines educativos e industriales.  
 Puedes modificarlo y adaptarlo a tus necesidades.
 
+## 🔌 Lector RS485 ↔ TTL
+
+Aquí una foto del módulo utilizado:
+
+![Lector RS485 a TTL](docs/LectorRfid.png)
 
 
